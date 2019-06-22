@@ -13,5 +13,3 @@
 
 ## Uruchomienie
 ```mvn jetty:run```
-# Licencjat
-# Licencjat
